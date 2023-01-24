@@ -34,6 +34,4 @@ public class Evento {
 	
 	private int numeroMassimoPartecipanti;
 	
-	
-	
 }
